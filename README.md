@@ -7,3 +7,5 @@
 [Ejercicio Base de Datos](https://github.com/OpheliaVlzqz/MineriaDatos/blob/main/BasesDeDatos.pdf)
 
 [Ejercicios Basicos de Python](https://github.com/Mikemtzrey/Mineria-de-datos-1867216/blob/main/Ej_Python_1867216.ipynb)
+
+[Ejercicio Limpieza de Datos](https://github.com/OpheliaVlzqz/MineriaDatos/blob/main/Ej_Limpieza_Equipo10.ipynb)

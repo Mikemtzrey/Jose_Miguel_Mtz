@@ -11,3 +11,8 @@
 [Ejercicio Limpieza de Datos](https://github.com/OpheliaVlzqz/MineriaDatos/blob/main/Ej_Limpieza_Equipo10.ipynb)
 
 [Avance de PIA](https://github.com/OpheliaVlzqz/MineriaDatos/blob/main/Avance1_PIA_10.ipynb)
+
+
+## Etapa 2
+
+[Presentacion Regresion de Bayesiana](https://github.com/OpheliaVlzqz/MineriaDatos/blob/main/Presentacion_RegresionBayesiana_10.pdf)

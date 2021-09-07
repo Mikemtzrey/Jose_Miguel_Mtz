@@ -15,4 +15,6 @@
 
 ## Etapa 2
 
-[Presentacion Regresion de Bayesiana](https://github.com/OpheliaVlzqz/MineriaDatos/blob/main/Presentacion_RegresionBayesiana_10.pdf)
+[Presentacion Regresion Bayesiana](https://github.com/OpheliaVlzqz/MineriaDatos/blob/main/Presentacion_RegresionBayesiana_10.pdf)
+
+*[Ejercicio de Regresion Bayesian](https://github.com/OpheliaVlzqz/MineriaDatos/blob/main/Teorema%20de%20Bayes.R)

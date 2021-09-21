@@ -19,4 +19,4 @@
 
 * [Ejercicio de Regresion Bayesian](https://github.com/OpheliaVlzqz/MineriaDatos/blob/main/Teorema%20de%20Bayes.R)
 
-* [Preguntas de Regresion Bayesiana] (https://github.com/OpheliaVlzqz/MineriaDatos/blob/main/Preguntas_RegresionB.pdf)
+* [Preguntas de Regresion Bayesiana](https://github.com/OpheliaVlzqz/MineriaDatos/blob/main/Preguntas_RegresionB.pdf)

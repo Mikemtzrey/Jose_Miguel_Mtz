@@ -20,3 +20,10 @@
 * [Ejercicio de Regresion Bayesian](https://github.com/OpheliaVlzqz/MineriaDatos/blob/main/Teorema%20de%20Bayes.R)
 
 * [Preguntas de Regresion Bayesiana](https://github.com/OpheliaVlzqz/MineriaDatos/blob/main/Preguntas_RegresionB.pdf)
+
+Visualización 
+* [Parte 1](https://github.com/OpheliaVlzqz/MineriaDatos/blob/main/Visualización_10_Parte1.ipynb)
+
+* [Parte2](https://github.com/OpheliaVlzqz/MineriaDatos/blob/main/visualizacion_10_parte2.ipynb)
+
+[Avance PIA 2](https://github.com/OpheliaVlzqz/MineriaDatos/blob/main/Avance2_PIA_10.ipynb)

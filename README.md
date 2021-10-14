@@ -26,4 +26,4 @@ Visualización
 
 * [Parte2](https://github.com/OpheliaVlzqz/MineriaDatos/blob/main/visualizacion_10_parte2.ipynb)
 
-[Avance PIA 2](https://github.com/OpheliaVlzqz/MineriaDatos/blob/main/Avance2_PIA_10.ipynb)
+[Avance PIA 2](https://github.com/OpheliaVlzqz/MineriaDatos/blob/main/Avance2_PIA_10_Corregido.ipynb)

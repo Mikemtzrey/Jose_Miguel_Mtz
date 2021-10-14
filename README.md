@@ -27,3 +27,8 @@ Visualización
 * [Parte2](https://github.com/OpheliaVlzqz/MineriaDatos/blob/main/visualizacion_10_parte2.ipynb)
 
 [Avance PIA 2](https://github.com/OpheliaVlzqz/MineriaDatos/blob/main/Avance2_PIA_10_Corregido.ipynb)
+
+
+##Etapa 3
+
+[Tecnicas de Mineria](https://github.com/Mikemtzrey/Mineria-de-datos-1867216/blob/main/T%C3%A9cnica.ipynb)

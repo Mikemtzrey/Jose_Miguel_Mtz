@@ -34,3 +34,5 @@ Visualización
 [Tecnicas de Mineria](https://github.com/Mikemtzrey/Mineria-de-datos-1867216/blob/main/T%C3%A9cnica.ipynb)
 
 [Notebook Final](https://github.com/OpheliaVlzqz/MineriaDatos/blob/main/Notebook_final_10.ipynb)
+
+[Poster](https://github.com/OpheliaVlzqz/MineriaDatos/blob/main/Poster_E10.pdf)
